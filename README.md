@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memo410" alt="memo410" /></a> </p>
 
-- 🔭 I’m currently working on **Increasiexpanding my Cloud Engineering experience and building secure Flutter architecturesng my experiences and**
+- 🔭 I’m currently working on **expanding my Cloud Engineering experience and building secure Flutter architectures**
 
 - 🌱 I’m currently learning **AWS cloud solution architect associate**
 
